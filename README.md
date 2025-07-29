@@ -68,6 +68,7 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yostina-abera-70b7a2261/)
+- 🔗 [telegram](https://t.me/byte_philosopher)
 - 🌍 Based in Ethiopia | Open for internships and collaborations
 
 ---
