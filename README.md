@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Bytephilosopher" width="150" height="150" style="border-radius: 50%;" alt="Yostina's Avatar"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm Yostina Abera</h1>
 
