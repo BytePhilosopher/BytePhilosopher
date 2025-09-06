@@ -3,7 +3,7 @@
 
 <p align="center">
   🎓 Aspiring Computer Scientist & AI Researcher <br>
-  💻 Full-Stack Developer | 🔐 Cybersecurity & Quantum Computing Enthusiast
+  💻 Full-Stack Developer | ML/AI & Quantum Computing Enthusiast
 </p>
 
 ---
