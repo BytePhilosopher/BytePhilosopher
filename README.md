@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Yostina Abera 👋</h1>
+<h1 align="center">Hi, I'm Yostina Abera </h1>
 
 <p align="center">
-  Full-Stack Developer • AI/ML Enthusiast • Aspiring Computer Scientist
+  Full-Stack Developer • AI/ML Enthusiast 
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BytePhilosopher&show_icons=true&theme=radical" height="170"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/yostina-abera-70b7a2261/
 - Telegram: https://t.me/byte_philosopher
