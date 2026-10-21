@@ -19,7 +19,6 @@
 I build web applications and data systems, from the pipeline that collects the data to the model that learns from it and the interface people use. I care about clean architecture, reproducible analysis and software that solves real problems.
 
 - **Focus:** full-stack development, data engineering and applied machine learning
-- **Currently:** building ELT pipelines, forecasting models and fraud-detection systems
 - **Values:** clear code, tested pipelines, results you can reproduce
 
 <br/>
